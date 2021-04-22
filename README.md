@@ -10,3 +10,4 @@ Links for all the required WOW clients needed  for mangos
 | WoTLK | 3.3.5a | 12340 | English |[Bare Torrent](Wow_3.3.5a.12340_Wotlk.torrent) | [Install Torrent](Wow_3.3.5a.12340_Wotlk_Install.torrent) |
 | Cata | 4.3.4 | 15595 | All |[Bare Torrent](Wow_4.3.4.15595_Cata.torrent) | [Install Torrent](Wow_4.3.4.15595_Cata_Install.torrent) |
 | Mop | 5.4.8 | 18414 | All |[Bare Torrent](Wow_5.4.8.18414_Mop.torrent) | [Install Torrent](Wow_5.4.8.18414_Mop_Install.torrent) |
+| Wod | 6.2.4 | 21742 | All |[Bare Torrent](Wow_6.2.4.21742_Wod.torrent) | [Install Torrent](Wow_6.2.4.21742_Wod_Install.torrent) |
